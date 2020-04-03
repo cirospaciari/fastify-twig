@@ -1,4 +1,4 @@
-[![npm package](https://nodei.co/npm/fastify-vash.png?downloads=true&downloadRank=true?maxAge=30)](https://nodei.co/npm/fastify-vash/)
+[![npm package](https://nodei.co/npm/fastify-twig.png?downloads=true&downloadRank=true?maxAge=30)](https://nodei.co/npm/fastify-twig/)
 
 
 # fastify-vash
