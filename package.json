@@ -1,6 +1,6 @@
 {
   "name": "fastify-twig",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Twig view renderer for fastify",
   "main": "index.js",
   "dependencies": {

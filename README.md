@@ -21,7 +21,9 @@ Support me for future versions:
 
     const fastify = require('fastify')();
 
-    fastify.register(require('fastify-twig'));
+    fastify.register(require('fastify-twig'), {
+        views: path.resolve('./views')
+    });
 
     fastify.get('/', async (request, reply) => {
 
