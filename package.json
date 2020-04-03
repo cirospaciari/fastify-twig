@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "fastify-plugin": "^1.6.1",
-    "vash": "^0.13.0"
+    "twig": "^1.15.0"
   },
   "keywords": [
     "fastify",
