@@ -1,7 +1,7 @@
 [![npm package](https://nodei.co/npm/fastify-twig.png?downloads=true&downloadRank=true?maxAge=30)](https://nodei.co/npm/fastify-twig/)
 
 
-# fastify-vash
+# fastify-twig
 Twig view renderer for fastify
 
 Support me for future versions:
