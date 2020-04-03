@@ -1,0 +1,34 @@
+{
+  "name": "fastify-twig",
+  "version": "1.0.0",
+  "description": "Twig view renderer for fastify",
+  "main": "index.js",
+  "dependencies": {
+    "fastify-plugin": "^1.6.1",
+    "vash": "^0.13.0"
+  },
+  "keywords": [
+    "fastify",
+    "twig",
+    "view",
+    "renderer"
+  ],
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Ciro César Martins Spaciari Jr"
+  },
+  "contributors": [
+    {
+      "name": "Ciro César Martins Spaciari Jr",
+      "email": "ciro.spaciari@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cirospaciari/fastify-twig.git"
+  }
+}
